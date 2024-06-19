@@ -1,4 +1,12 @@
-# 💫 About Me:
+<div align="center">
+    <img src="https://github.com/tiwarygaurav/Images/blob/main/GT%23.png?raw=true" alt="Kumar Gaurav" width="200" height="200">
+</div>
+
+# Hi, I'm Kumar Gaurav! 👋
+
+📧 **Email:** gauravt.nic.com  
+
+
 🔭 I’m currently working on: My career.<br>👯 I’m looking to collaborate on: Innovative security solutions.<br>🤝 I’m looking for help with: Machine learning & cybersecurity.<br>🌱 I’m currently learning: Deep dive into network security.<br>⚡ Fun fact: I can secure your data and play a mean game of chess!
 
 
