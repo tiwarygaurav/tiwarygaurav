@@ -2,7 +2,7 @@
     <img src="https://github.com/tiwarygaurav/Images/blob/main/GT%23.png?raw=true" alt="Kumar Gaurav" width="200" height="200">
 </div>
 
-# Hi, I'm Kumar Gaurav! 👋
+# Hi, I'm Gaurav! 👋
 
 📧 **Email:** gauravt.nic.com  
 
